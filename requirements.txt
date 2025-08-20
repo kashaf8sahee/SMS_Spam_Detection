@@ -1,0 +1,12 @@
+# Core data processing
+pandas==2.1.1
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Machine learning
+scikit-learn==1.3.2
+
+# Optional (if you use warnings filter, no extra installation needed)
